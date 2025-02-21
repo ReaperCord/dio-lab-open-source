@@ -1,27 +1,37 @@
-<h1>
-    <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Profiles README DIO</span>
-</h1>
+<h1>Olá, Bem vindos! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="45" height="45" /></h1>
+<p>Me chamo <strong>Leandro Ribeiro</strong>, sou estudante de Análise de Desenvolvimento de Sistemas, atualmente no 2° Semestre. Abaixo você pode conferir alguns projetos que desenvolvi com as tecnologias que venho aprendo na faculdade! Sinta-se em casa.</p>
 
-## Sobre o Projeto
-Página desenvolvida para fins didáticos para o curso **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/). Lembre-se de que Markdown é mais voltado para a documentação e apresentação de texto formatado, enquanto a remoção de bugs normalmente envolve a compreensão detalhada do código e o uso de ferramentas de desenvolvimento adequadas à linguagem de programação específica.
+<div>
+<a href="https://github.com/reaperCord">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reaperCord&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=reaperCord&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
-[![Preview](https://img.shields.io/badge/Preview-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://digitalinnovationone.github.io/dio-lab-open-source/)
+<table style="border: 0 solid">
 
-```
-docs/
-├── assets/
-│   ├── css/
-│   │   └── styles.css
-│   └── js/
-│       └── scripts.js
-├── favicon.ico
-├── index.html
-└── README.md
-```
+<tr>
+<td><strong>Tecnologia e topicos - 1° Semestre</strong></td>
+<td>
 
-## Tecnologias
-![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,jquery,c,)](https://skillicons.dev)
+</td>
+</tr>
+
+<tr>
+<td><strong>Tecnologia e topicos - 2° Semestre</strong></td>
+<td>
+
+[![My Skills](https://skillicons.dev/icons?i=typescript,react,py,mysql,postgres)](https://skillicons.dev)
+</td>
+</tr>
+
+<tr>
+<td><strong>Estudos complementares próprios</strong></td>
+<td>
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,git,github,redis,mongo,angular,aws)](https://skillicons.dev) 
+</td>
+</tr>
+
+</table>
+
